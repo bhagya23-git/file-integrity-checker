@@ -47,5 +47,5 @@ Python was chosen due to its readability, ease of implementation, and robust sta
 
 #OUTPUT: 
 
-
+![Image](https://github.com/user-attachments/assets/76d2dfb0-860a-4378-903b-88a297a2b13c)
 
