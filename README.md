@@ -1,4 +1,4 @@
-# file-integrity-checker
+#File-integrity-checker
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
